@@ -9,7 +9,7 @@
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Status](https://img.shields.io/badge/Status-Active-success.svg)]()
 
-[Live Demo](#) • [Features](#features) • [Installation](#installation) • [Analysis](#key-findings)
+[Live Demo](https://trade-gdp-dashboard.onrender.com) • [Features](#features) • [Installation](#installation) • [Analysis](#key-findings)
 
 </div>
 
