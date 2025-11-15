@@ -1,4 +1,4 @@
-# 🌍 Trade & GDP Analysis Dashboard
+# 🌍 Trade and GDP Analysis Dashboard
 
 <div align="center">
 
@@ -59,7 +59,7 @@ This project provides a comprehensive analysis of **how international trade impa
 
 ## 🌐 Live Demo
 
-### 🚀 **[View Live Dashboard](https://your-app.onrender.com)** 
+### 🚀 **[View Live Dashboard](https://trade-gdp-dashboard.onrender.com)** 
 *Update this link after deploying to Render*
 
 ### 📸 Dashboard Preview
@@ -418,7 +418,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ## 🙏 Acknowledgments
 
-- **Dataset**: [Willian Oliveira Gibin](https://www.kaggle.com/willianoliveiragibin) on Kaggle
+- **Dataset**: [Heidar Mirhaji Sadati](https://www.kaggle.com/heidarmirhajisadati) on Kaggle
 - **Inspiration**: Global economic research and evidence-based policy making
 - **Tools**: Plotly Dash community, Render platform
 

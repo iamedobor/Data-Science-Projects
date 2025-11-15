@@ -9,7 +9,7 @@ Analysis exploring the relationship between international trade and GDP metrics 
 
 **Tech Stack:** Python, Pandas, Numpy, Plotly, Dash
 
-[View Project](./trade-gdp-analysis/) | [Live Dashboard](your-dashboard-url-here)
+[View Project](./trade-gdp-analysis/) | [Live Dashboard](https://trade-gdp-dashboard.onrender.com/)
 
 ---
 
