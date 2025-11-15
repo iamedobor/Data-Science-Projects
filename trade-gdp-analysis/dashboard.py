@@ -324,7 +324,11 @@ def create_main_content(theme):
     
     return html.Div([
         dbc.Tabs(tabs, id="tabs", active_tab="overview", style={'marginBottom': '20px'}),
-        html.Div(id="tab-content", style={'padding': '20px'})
+        dcc.Loading(  
+            id="loading",
+            type="default",  # Options: "default", "circle", "dot", or "cube"
+            children=html.Div(id="tab-content", style={'padding': '20px'})
+        ) 
     ], style={'padding': '20px'})
 
 # ==============================================================================
