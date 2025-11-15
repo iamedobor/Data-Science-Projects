@@ -267,6 +267,7 @@ Data-Science-Projects/
     ├── requirements.txt            # Python dependencies
     ├── runtime.txt                 # Python version for deployment
     ├── render.yaml                 # Render deployment configuration
+    ├── LICENSE                     # Project License
     ├── README.md                   # Project documentation
     ├── .gitignore                  # Git ignore rules
     │
