@@ -48,10 +48,6 @@ Thumbs.db
 # Logs
 *.log
 
-# Data (optional - uncomment if data files are large)
-# data/*.csv
-# data/*.json
-
 # Temporary files
 *.tmp
 *.bak

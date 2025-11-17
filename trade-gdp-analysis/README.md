@@ -271,8 +271,9 @@ Data-Science-Projects/
     ├── README.md                   # Project documentation
     ├── .gitignore                  # Git ignore rules
     │
-    ├── data/                       # Processed datasets
-    │   ├── featured_data.csv       # Cleaned data with 15 engineered features
+    ├── data/                       # All datasets
+    │   ├── global_economy.csv      # Original dataset
+    |   ├── featured_data.csv       # Cleaned data with 15 engineered features
     │   ├── cluster_data.csv        # Country cluster assignments (K-means)
     │   └── summary_stats.json      # Dataset metadata and aggregate statistics
     │
