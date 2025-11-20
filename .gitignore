@@ -39,13 +39,6 @@ venv.bak/
 *.swo
 *~
 
-# Data files (be careful - you might want to commit some CSVs)
-*.csv
-*.xlsx
-*.xls
-*.db
-*.sqlite
-*.sqlite3
 
 # But keep specific data files (uncomment if needed)
 # !data/featured_data.csv

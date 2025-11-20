@@ -1,0 +1,18 @@
+{
+    "K-Means": {
+        "Silhouette": 0.19633081863993793,
+        "Davies-Bouldin": 2.1186393993737664,
+        "Calinski-Harabasz": 516.3740733909431
+    },
+    "Hierarchical": {
+        "Silhouette": 0.13670118543920554,
+        "Davies-Bouldin": 2.244596334701084,
+        "Calinski-Harabasz": 413.5282226174487
+    },
+    "GMM": {
+        "Silhouette": 0.2238915247236138,
+        "Davies-Bouldin": 2.195547635942718,
+        "Calinski-Harabasz": 464.3846039524192
+    },
+    "Recommended_Model": "GMM"
+}

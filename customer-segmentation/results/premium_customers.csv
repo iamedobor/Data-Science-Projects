@@ -1,0 +1,251 @@
+ID,Age,Income,Education,Marital_Status,Total_Spending,Total_Purchases,Total_Children,Recency,NumWebVisitsMonth,Cluster_KMeans,Customer_Segment,Cluster_HAC,HAC_Segment,Cluster_GMM,GMM_Segment
+2114,79,82800.0,PhD,Single,1315,26,0,23,3,1,Premium Customers,0,Premium Customers,1,Premium Customers
+6565,76,76995.0,Master,Married,1782,26,1,91,5,1,Premium Customers,0,Premium Customers,1,Premium Customers
+1966,60,84618.0,PhD,Married,1672,26,0,96,2,1,Premium Customers,0,Premium Customers,1,Premium Customers
+2225,48,82582.0,Graduation,Divorced,1617,21,0,54,1,1,Premium Customers,0,Premium Customers,1,Premium Customers
+6260,70,82384.0,Master,Together,1957,27,0,55,1,1,Premium Customers,0,Premium Customers,1,Premium Customers
+6853,43,75777.0,Master,Single,1438,21,0,12,1,1,Premium Customers,0,Premium Customers,1,Premium Customers
+9369,46,88194.0,2n Cycle,Single,1274,32,1,19,5,1,Premium Customers,0,Premium Customers,1,Premium Customers
+4452,68,50388.0,Graduation,Single,372,17,1,3,7,2,Standard Customers,0,Premium Customers,1,Premium Customers
+8504,52,79593.0,Graduation,Married,1366,19,0,70,2,1,Premium Customers,0,Premium Customers,1,Premium Customers
+4646,74,78497.0,2n Cycle,Married,978,25,0,44,2,1,Premium Customers,0,Premium Customers,1,Premium Customers
+999,34,86037.0,Graduation,Single,730,25,0,95,3,1,Premium Customers,0,Premium Customers,1,Premium Customers
+1592,55,90765.0,Graduation,Married,1724,15,0,25,1,1,Premium Customers,0,Premium Customers,1,Premium Customers
+7215,42,101970.0,Graduation,Single,1135,27,0,69,2,1,Premium Customers,0,Premium Customers,1,Premium Customers
+10240,76,69372.0,Graduation,Together,1381,21,0,10,4,1,Premium Customers,0,Premium Customers,1,Premium Customers
+10314,77,83837.0,PhD,Married,1318,25,0,79,4,1,Premium Customers,0,Premium Customers,1,Premium Customers
+6935,74,78497.0,2n Cycle,Married,978,25,0,44,2,1,Premium Customers,0,Premium Customers,1,Premium Customers
+9938,71,80067.0,Graduation,Married,1600,17,0,82,2,1,Premium Customers,0,Premium Customers,1,Premium Customers
+2798,48,102160.0,PhD,Together,1240,26,0,54,4,1,Premium Customers,0,Premium Customers,1,Premium Customers
+6274,77,83790.0,Master,Married,1615,25,0,81,3,1,Premium Customers,0,Premium Customers,1,Premium Customers
+5341,63,81975.0,2n Cycle,Divorced,1588,14,1,2,7,1,Premium Customers,0,Premium Customers,1,Premium Customers
+9529,35,73687.0,Graduation,Married,1627,22,0,8,2,1,Premium Customers,0,Premium Customers,1,Premium Customers
+2176,53,80134.0,Graduation,Married,1690,16,1,40,6,1,Premium Customers,0,Premium Customers,1,Premium Customers
+10089,51,102692.0,Graduation,Divorced,1112,29,0,5,2,1,Premium Customers,0,Premium Customers,1,Premium Customers
+3762,39,69867.0,PhD,Single,925,17,0,30,1,1,Premium Customers,0,Premium Customers,1,Premium Customers
+4543,45,82497.0,Graduation,Married,1919,19,0,32,4,1,Premium Customers,0,Premium Customers,1,Premium Customers
+2926,73,55951.0,Master,Together,1374,23,1,62,8,2,Standard Customers,0,Premium Customers,1,Premium Customers
+9274,64,80950.0,Master,Married,1213,23,0,44,2,1,Premium Customers,0,Premium Customers,1,Premium Customers
+6963,78,77457.0,Graduation,Single,1157,18,0,85,1,1,Premium Customers,0,Premium Customers,1,Premium Customers
+2437,36,51381.5,Graduation,Married,1611,24,0,69,3,1,Premium Customers,0,Premium Customers,1,Premium Customers
+2863,55,51381.5,Graduation,Single,1052,21,3,67,7,2,Standard Customers,0,Premium Customers,1,Premium Customers
+7381,57,75693.0,Graduation,Divorced,1442,22,0,10,4,1,Premium Customers,0,Premium Customers,1,Premium Customers
+9560,60,83003.0,Graduation,Together,1674,22,0,18,3,1,Premium Customers,0,Premium Customers,1,Premium Customers
+9707,56,55212.0,PhD,Married,1182,20,1,65,8,2,Standard Customers,0,Premium Customers,1,Premium Customers
+175,39,71952.0,Graduation,Married,1443,22,1,93,4,1,Premium Customers,1,Standard Customers,1,Premium Customers
+8318,46,90300.0,Graduation,Together,1738,19,0,7,1,1,Premium Customers,0,Premium Customers,1,Premium Customers
+7030,70,66465.0,PhD,Married,1485,35,1,1,6,2,Standard Customers,0,Premium Customers,1,Premium Customers
+5067,31,80134.0,Graduation,Together,1378,21,0,11,5,1,Premium Customers,0,Premium Customers,1,Premium Customers
+4216,44,91065.0,Graduation,Single,1474,26,0,33,3,1,Premium Customers,0,Premium Customers,1,Premium Customers
+1361,51,82584.0,Master,Married,1435,16,0,26,1,1,Premium Customers,0,Premium Customers,1,Premium Customers
+6932,84,93027.0,PhD,Married,2119,22,0,77,2,1,Premium Customers,0,Premium Customers,1,Premium Customers
+1340,39,92910.0,Graduation,Married,1795,27,0,42,1,1,Premium Customers,0,Premium Customers,1,Premium Customers
+8746,36,75433.0,Graduation,Married,1188,19,1,28,6,2,Standard Customers,0,Premium Customers,1,Premium Customers
+3725,64,84865.0,PhD,Single,1688,16,0,1,4,1,Premium Customers,0,Premium Customers,1,Premium Customers
+1137,61,81246.0,Graduation,Single,1379,17,0,87,1,1,Premium Customers,0,Premium Customers,1,Premium Customers
+4947,59,89572.0,2n Cycle,Single,2059,24,0,44,4,1,Premium Customers,0,Premium Customers,1,Premium Customers
+1992,61,60597.0,Graduation,Married,893,16,1,2,7,2,Standard Customers,0,Premium Customers,1,Premium Customers
+7999,70,75261.0,PhD,Together,1743,17,0,17,2,1,Premium Customers,0,Premium Customers,1,Premium Customers
+10965,70,76005.0,Graduation,Together,1722,22,0,72,6,1,Premium Customers,0,Premium Customers,1,Premium Customers
+6036,66,89120.0,Master,Together,1924,19,0,78,1,1,Premium Customers,0,Premium Customers,1,Premium Customers
+3711,81,80184.0,Master,Married,1902,20,0,19,3,1,Premium Customers,0,Premium Customers,1,Premium Customers
+4943,72,70503.0,Graduation,Married,1727,16,0,73,6,1,Premium Customers,0,Premium Customers,1,Premium Customers
+6931,58,76982.0,Graduation,Divorced,1062,16,0,19,4,1,Premium Customers,0,Premium Customers,1,Premium Customers
+5547,43,84169.0,PhD,Married,1919,20,0,9,3,1,Premium Customers,0,Premium Customers,1,Premium Customers
+8314,43,79908.0,Graduation,Married,1772,19,0,30,2,1,Premium Customers,0,Premium Customers,1,Premium Customers
+3174,66,87771.0,Graduation,Together,1957,20,1,61,6,1,Premium Customers,0,Premium Customers,1,Premium Customers
+2574,48,61996.0,PhD,Married,1230,21,1,27,5,2,Standard Customers,0,Premium Customers,1,Premium Customers
+9058,70,79800.0,Graduation,Widow,1867,22,0,65,3,1,Premium Customers,0,Premium Customers,1,Premium Customers
+7627,50,92163.0,Master,Married,2086,21,0,25,2,1,Premium Customers,0,Premium Customers,1,Premium Customers
+988,60,81168.0,Graduation,Married,1193,18,0,84,3,1,Premium Customers,0,Premium Customers,1,Premium Customers
+10972,76,72298.0,Graduation,Widow,939,14,0,52,1,1,Premium Customers,0,Premium Customers,1,Premium Customers
+6583,70,72635.0,2n Cycle,Married,981,21,0,54,3,1,Premium Customers,0,Premium Customers,1,Premium Customers
+1173,78,77632.0,Master,Together,2252,13,0,73,2,1,Premium Customers,0,Premium Customers,1,Premium Customers
+4611,55,105471.0,Graduation,Together,1724,30,0,36,3,1,Premium Customers,0,Premium Customers,1,Premium Customers
+4673,62,81300.0,PhD,Married,1241,21,1,17,5,2,Standard Customers,0,Premium Customers,1,Premium Customers
+10767,36,77845.0,PhD,Together,1346,21,0,40,1,1,Premium Customers,0,Premium Customers,1,Premium Customers
+1277,65,78468.0,Graduation,Together,1004,28,0,29,4,1,Premium Customers,0,Premium Customers,1,Premium Customers
+8029,37,90247.0,Master,Single,1621,15,0,27,1,1,Premium Customers,0,Premium Customers,1,Premium Customers
+6988,39,71952.0,Graduation,Married,1443,22,1,93,4,1,Premium Customers,1,Standard Customers,1,Premium Customers
+3619,65,87305.0,2n Cycle,Divorced,1152,17,0,19,2,1,Premium Customers,0,Premium Customers,1,Premium Customers
+6086,70,80395.0,Graduation,Married,1380,24,0,62,2,1,Premium Customers,0,Premium Customers,1,Premium Customers
+11101,34,89891.0,Graduation,Together,836,26,0,17,4,1,Premium Customers,0,Premium Customers,1,Premium Customers
+10430,52,89694.0,Graduation,Divorced,1472,14,2,22,5,1,Premium Customers,0,Premium Customers,1,Premium Customers
+7875,76,72025.0,Graduation,Married,1677,26,0,46,2,1,Premium Customers,0,Premium Customers,1,Premium Customers
+5278,61,82224.0,Graduation,Married,902,21,0,83,3,1,Premium Customers,0,Premium Customers,1,Premium Customers
+3560,73,83844.0,Graduation,Together,1574,20,0,57,1,1,Premium Customers,0,Premium Customers,1,Premium Customers
+3667,56,80952.0,Graduation,Married,1757,25,0,20,8,1,Premium Customers,0,Premium Customers,1,Premium Customers
+10446,68,82017.0,PhD,Married,729,17,0,58,2,1,Premium Customers,0,Premium Customers,1,Premium Customers
+3483,67,48192.0,Graduation,Married,1526,25,0,76,8,1,Premium Customers,0,Premium Customers,1,Premium Customers
+9493,45,76412.0,PhD,Single,1808,18,0,15,3,1,Premium Customers,0,Premium Customers,1,Premium Customers
+1,64,57091.0,Graduation,Single,577,18,0,0,5,2,Standard Customers,0,Premium Customers,1,Premium Customers
+5536,66,87771.0,Graduation,Together,1957,20,1,61,6,1,Premium Customers,0,Premium Customers,1,Premium Customers
+9499,71,93404.0,Graduation,Married,1616,17,3,97,5,2,Standard Customers,0,Premium Customers,1,Premium Customers
+5848,55,81205.0,Graduation,Together,2009,19,0,43,2,1,Premium Customers,0,Premium Customers,1,Premium Customers
+4856,68,82347.0,2n Cycle,Married,1853,25,0,38,3,1,Premium Customers,0,Premium Customers,1,Premium Customers
+5794,51,46374.0,PhD,Married,446,18,1,1,8,2,Standard Customers,0,Premium Customers,1,Premium Customers
+1031,36,85710.0,2n Cycle,Married,1062,26,0,5,2,1,Premium Customers,0,Premium Customers,1,Premium Customers
+10140,42,70123.0,PhD,Together,1727,17,0,27,3,1,Premium Customers,0,Premium Customers,1,Premium Customers
+4789,72,80812.0,Graduation,Together,1677,18,0,95,2,1,Premium Customers,0,Premium Customers,1,Premium Customers
+10150,64,86429.0,Graduation,Single,1449,18,0,10,2,1,Premium Customers,0,Premium Customers,1,Premium Customers
+10619,31,95529.0,Graduation,Single,1990,18,0,29,3,1,Premium Customers,0,Premium Customers,1,Premium Customers
+8362,43,84169.0,PhD,Married,1919,20,0,9,3,1,Premium Customers,0,Premium Customers,1,Premium Customers
+4637,71,74637.0,PhD,Single,1650,25,0,73,3,1,Premium Customers,0,Premium Customers,1,Premium Customers
+9972,70,46015.0,PhD,Together,46,5,2,25,7,0,Budget Shoppers,0,Premium Customers,1,Premium Customers
+8931,39,83033.0,Graduation,Together,1761,26,1,82,5,1,Premium Customers,0,Premium Customers,1,Premium Customers
+2008,47,77583.0,Graduation,Married,1149,19,0,93,2,1,Premium Customers,0,Premium Customers,1,Premium Customers
+1204,55,67536.0,PhD,Married,1829,30,1,45,8,2,Standard Customers,0,Premium Customers,1,Premium Customers
+6810,42,82025.0,Graduation,Divorced,1187,12,0,76,1,1,Premium Customers,0,Premium Customers,1,Premium Customers
+5386,72,94384.0,Graduation,Together,2302,18,0,62,2,1,Premium Customers,0,Premium Customers,1,Premium Customers
+3202,38,51563.0,PhD,Married,1250,19,0,60,8,2,Standard Customers,0,Premium Customers,1,Premium Customers
+10489,52,92955.0,Graduation,Married,1778,23,0,35,2,1,Premium Customers,0,Premium Customers,1,Premium Customers
+2611,66,82576.0,Master,Together,1910,19,0,66,1,1,Premium Customers,0,Premium Customers,1,Premium Customers
+5718,75,80763.0,Graduation,Married,1415,23,0,17,3,1,Premium Customers,0,Premium Customers,1,Premium Customers
+4580,56,75759.0,Graduation,Married,2486,26,0,46,5,1,Premium Customers,0,Premium Customers,1,Premium Customers
+8545,71,85683.0,Graduation,Divorced,1789,17,0,6,1,1,Premium Customers,0,Premium Customers,1,Premium Customers
+8492,47,75437.0,Graduation,Together,1493,23,0,25,6,1,Premium Customers,0,Premium Customers,1,Premium Customers
+10473,69,78028.0,PhD,Widow,528,20,1,38,7,2,Standard Customers,0,Premium Customers,1,Premium Customers
+7962,38,95169.0,PhD,Single,1901,12,0,1,1,1,Premium Customers,0,Premium Customers,1,Premium Customers
+9984,44,56337.0,2n Cycle,Married,724,22,2,25,8,2,Standard Customers,1,Standard Customers,1,Premium Customers
+241,73,83844.0,Graduation,Together,1574,20,0,57,1,1,Premium Customers,0,Premium Customers,1,Premium Customers
+5236,46,77568.0,Graduation,Together,2194,21,1,30,5,1,Premium Customers,0,Premium Customers,1,Premium Customers
+7010,60,70924.0,2n Cycle,Married,1363,20,0,41,3,1,Premium Customers,0,Premium Customers,1,Premium Customers
+5204,54,74538.0,Graduation,Together,1461,22,0,21,3,1,Premium Customers,0,Premium Customers,1,Premium Customers
+1020,52,79593.0,Graduation,Married,1366,19,0,70,2,1,Premium Customers,0,Premium Customers,1,Premium Customers
+4998,63,76081.0,Graduation,Together,1033,14,0,85,2,1,Premium Customers,0,Premium Customers,1,Premium Customers
+4767,60,70924.0,2n Cycle,Married,1363,20,0,41,3,1,Premium Customers,0,Premium Customers,1,Premium Customers
+3005,33,83528.0,Graduation,Single,1650,23,0,7,1,1,Premium Customers,0,Premium Customers,1,Premium Customers
+6421,64,88347.0,Graduation,Together,2116,21,0,32,1,1,Premium Customers,0,Premium Customers,1,Premium Customers
+4207,44,87171.0,PhD,Married,1298,25,0,27,2,1,Premium Customers,1,Standard Customers,1,Premium Customers
+6072,55,75345.0,Master,Single,2087,20,0,16,3,1,Premium Customers,0,Premium Customers,1,Premium Customers
+1509,67,84460.0,PhD,Together,523,22,0,80,5,1,Premium Customers,0,Premium Customers,1,Premium Customers
+1127,52,85844.0,PhD,Married,1958,20,0,62,2,1,Premium Customers,0,Premium Customers,1,Premium Customers
+5538,50,83829.0,Graduation,Divorced,1862,17,0,78,1,1,Premium Customers,0,Premium Customers,1,Premium Customers
+146,65,76045.0,PhD,Single,1323,21,0,78,2,1,Premium Customers,0,Premium Customers,1,Premium Customers
+1524,42,81698.0,2n Cycle,Single,1104,16,0,1,5,1,Premium Customers,0,Premium Customers,1,Premium Customers
+4356,54,71819.0,Graduation,Together,1574,14,1,70,6,2,Standard Customers,0,Premium Customers,1,Premium Customers
+2975,49,85606.0,Graduation,Together,1956,24,1,89,3,1,Premium Customers,0,Premium Customers,1,Premium Customers
+2894,40,72903.0,Graduation,Single,2013,21,0,74,4,1,Premium Customers,0,Premium Customers,1,Premium Customers
+5031,51,83145.0,Graduation,Together,1833,26,0,14,2,1,Premium Customers,0,Premium Customers,1,Premium Customers
+5735,34,90638.0,Master,Single,2525,18,0,29,1,1,Premium Customers,0,Premium Customers,1,Premium Customers
+9855,73,62000.0,PhD,Single,1020,26,1,25,4,2,Standard Customers,0,Premium Customers,1,Premium Customers
+8732,56,67369.0,Master,Widow,1461,25,1,81,4,2,Standard Customers,0,Premium Customers,1,Premium Customers
+7789,60,84618.0,PhD,Married,1672,26,0,96,2,1,Premium Customers,0,Premium Customers,1,Premium Customers
+697,56,74918.0,Graduation,Together,2047,21,0,78,3,1,Premium Customers,0,Premium Customers,1,Premium Customers
+1627,68,77297.0,2n Cycle,Divorced,789,22,0,84,4,1,Premium Customers,0,Premium Customers,1,Premium Customers
+9757,53,84906.0,Graduation,Together,1631,24,0,98,2,1,Premium Customers,0,Premium Customers,1,Premium Customers
+9606,60,69969.0,PhD,Married,1536,13,0,64,3,1,Premium Customers,0,Premium Customers,1,Premium Customers
+2147,56,76653.0,Graduation,Together,2279,23,0,91,2,1,Premium Customers,0,Premium Customers,1,Premium Customers
+3979,42,90687.0,PhD,Divorced,1779,17,0,98,2,1,Premium Customers,0,Premium Customers,1,Premium Customers
+6049,43,73450.0,Master,Together,1804,27,0,85,3,1,Premium Customers,0,Premium Customers,1,Premium Customers
+3910,50,83829.0,Graduation,Divorced,1862,17,0,78,1,1,Premium Customers,0,Premium Customers,1,Premium Customers
+2931,47,71847.0,Graduation,Divorced,1192,22,0,95,3,1,Premium Customers,0,Premium Customers,1,Premium Customers
+3698,42,78687.0,Graduation,Together,2130,19,0,13,2,1,Premium Customers,0,Premium Customers,1,Premium Customers
+9516,54,49118.0,2n Cycle,Divorced,1229,28,0,90,7,1,Premium Customers,0,Premium Customers,1,Premium Customers
+9010,53,83151.0,Master,Married,2346,23,0,80,2,1,Premium Customers,0,Premium Customers,1,Premium Customers
+1577,79,78569.0,Graduation,Married,1736,15,0,14,1,1,Premium Customers,0,Premium Customers,1,Premium Customers
+6024,72,94384.0,Graduation,Together,2302,18,0,62,2,1,Premium Customers,0,Premium Customers,1,Premium Customers
+4394,60,81051.0,PhD,Married,1501,23,0,43,2,1,Premium Customers,0,Premium Customers,1,Premium Customers
+5758,43,65169.0,Graduation,Married,1189,28,0,23,6,1,Premium Customers,0,Premium Customers,1,Premium Customers
+9206,57,77382.0,Graduation,Together,1121,26,1,36,1,1,Premium Customers,0,Premium Customers,1,Premium Customers
+1945,63,71434.0,Graduation,Married,1400,21,1,4,4,1,Premium Customers,0,Premium Customers,1,Premium Customers
+2535,47,88097.0,Master,Married,844,20,1,24,9,1,Premium Customers,0,Premium Customers,1,Premium Customers
+2407,43,69109.0,Graduation,Married,1555,20,0,10,4,1,Premium Customers,0,Premium Customers,1,Premium Customers
+10909,77,92344.0,Graduation,Married,1899,20,0,9,1,1,Premium Customers,1,Standard Customers,1,Premium Customers
+9121,53,80134.0,Graduation,Married,1690,16,1,40,6,1,Premium Customers,0,Premium Customers,1,Premium Customers
+4310,81,80589.0,Graduation,Married,1428,21,0,25,1,1,Premium Customers,0,Premium Customers,1,Premium Customers
+9349,40,92533.0,Graduation,Married,1131,23,0,84,2,1,Premium Customers,0,Premium Customers,1,Premium Customers
+4530,77,78427.0,Master,Widow,1930,23,0,36,3,1,Premium Customers,0,Premium Customers,1,Premium Customers
+1553,79,82657.0,Graduation,Together,2283,23,0,71,4,1,Premium Customers,0,Premium Customers,1,Premium Customers
+10133,55,93790.0,Graduation,Single,2349,25,0,16,2,1,Premium Customers,0,Premium Customers,1,Premium Customers
+2945,70,46015.0,PhD,Together,46,5,2,25,7,0,Budget Shoppers,0,Premium Customers,1,Premium Customers
+7521,73,83844.0,Graduation,Together,1574,20,0,57,1,1,Premium Customers,0,Premium Customers,1,Premium Customers
+4070,56,94871.0,PhD,Married,1078,18,2,99,7,1,Premium Customers,0,Premium Customers,1,Premium Customers
+5529,79,64014.0,PhD,Together,444,22,3,56,7,2,Standard Customers,0,Premium Customers,1,Premium Customers
+9743,70,76998.0,Graduation,Married,1910,29,1,85,6,1,Premium Customers,0,Premium Customers,1,Premium Customers
+1763,37,87679.0,Graduation,Together,2524,29,0,62,4,1,Premium Customers,0,Premium Customers,1,Premium Customers
+3643,51,63206.0,Master,Married,928,14,0,65,2,1,Premium Customers,0,Premium Customers,1,Premium Customers
+830,38,74004.0,PhD,Single,1658,15,0,5,3,1,Premium Customers,0,Premium Customers,1,Premium Customers
+7321,63,76081.0,Graduation,Together,1033,14,0,85,2,1,Premium Customers,0,Premium Customers,1,Premium Customers
+4261,79,82800.0,PhD,Single,1315,26,0,23,3,1,Premium Customers,0,Premium Customers,1,Premium Customers
+5350,34,90638.0,Master,Single,2525,18,0,29,1,1,Premium Customers,0,Premium Customers,1,Premium Customers
+9298,78,81574.0,PhD,Together,1798,18,0,89,1,1,Premium Customers,0,Premium Customers,1,Premium Customers
+2612,38,75794.0,Graduation,Married,1682,25,0,33,3,1,Premium Customers,0,Premium Customers,1,Premium Customers
+5453,69,90226.0,Master,Married,2352,24,0,26,2,1,Premium Customers,0,Premium Customers,1,Premium Customers
+1665,61,64140.0,PhD,Divorced,1750,18,2,71,5,2,Standard Customers,0,Premium Customers,1,Premium Customers
+2781,44,72066.0,Graduation,Single,1792,17,0,55,2,1,Premium Customers,0,Premium Customers,1,Premium Customers
+8143,40,37929.0,PhD,Single,265,13,0,49,7,0,Budget Shoppers,0,Premium Customers,1,Premium Customers
+3690,39,80141.0,Master,Married,2091,22,0,20,6,1,Premium Customers,0,Premium Customers,1,Premium Customers
+3433,70,72635.0,2n Cycle,Married,981,21,0,54,3,1,Premium Customers,0,Premium Customers,1,Premium Customers
+1215,47,70440.0,Graduation,Together,1572,23,0,49,3,1,Premium Customers,0,Premium Customers,1,Premium Customers
+2570,57,56534.0,Graduation,Together,815,25,1,35,8,2,Standard Customers,0,Premium Customers,1,Premium Customers
+10742,42,86580.0,PhD,Married,746,11,0,72,1,1,Premium Customers,0,Premium Customers,1,Premium Customers
+1351,69,58656.0,Master,Together,1220,32,1,25,6,2,Standard Customers,0,Premium Customers,1,Premium Customers
+477,39,83512.0,Graduation,Married,2157,22,0,31,1,1,Premium Customers,0,Premium Customers,1,Premium Customers
+7832,66,77520.0,Master,Married,1526,23,1,30,4,1,Premium Customers,0,Premium Customers,1,Premium Customers
+7396,59,80398.0,Graduation,Married,1597,26,0,92,3,1,Premium Customers,0,Premium Customers,1,Premium Customers
+1172,42,92491.0,PhD,Married,2034,25,0,71,3,1,Premium Customers,0,Premium Customers,1,Premium Customers
+569,34,90273.0,Graduation,Single,1991,19,0,32,2,1,Premium Customers,0,Premium Customers,1,Premium Customers
+4686,63,82571.0,PhD,Widow,1686,24,0,28,2,1,Premium Customers,0,Premium Customers,1,Premium Customers
+10129,59,82427.0,Graduation,Together,1456,21,0,35,1,1,Premium Customers,0,Premium Customers,1,Premium Customers
+5796,62,77437.0,Graduation,Married,1125,23,0,70,1,1,Premium Customers,0,Premium Customers,1,Premium Customers
+10556,66,54984.0,Graduation,Married,358,17,1,51,7,2,Standard Customers,0,Premium Customers,1,Premium Customers
+737,76,80360.0,PhD,Married,2231,15,0,56,2,1,Premium Customers,0,Premium Customers,1,Premium Customers
+7960,63,82122.0,2n Cycle,Together,1382,26,0,89,1,1,Premium Customers,0,Premium Customers,1,Premium Customers
+8439,61,63404.0,Graduation,Together,902,15,2,97,4,2,Standard Customers,0,Premium Customers,1,Premium Customers
+6977,51,75702.0,Graduation,Together,1921,29,1,87,6,1,Premium Customers,0,Premium Customers,1,Premium Customers
+8093,56,79734.0,Master,Married,914,14,0,72,1,1,Premium Customers,0,Premium Customers,1,Premium Customers
+10513,33,63207.0,Graduation,Together,1502,12,0,68,7,1,Premium Customers,0,Premium Customers,1,Premium Customers
+2415,63,62568.0,Graduation,Together,953,16,1,99,4,2,Standard Customers,0,Premium Customers,1,Premium Customers
+6906,72,84953.0,Master,Widow,1024,18,0,73,2,1,Premium Customers,0,Premium Customers,1,Premium Customers
+7872,50,86836.0,PhD,Married,557,23,0,7,5,1,Premium Customers,0,Premium Customers,1,Premium Customers
+4427,30,83257.0,2n Cycle,Single,1365,28,0,56,6,1,Premium Customers,1,Standard Customers,1,Premium Customers
+2886,54,74290.0,Master,Divorced,1217,32,1,70,6,2,Standard Customers,0,Premium Customers,1,Premium Customers
+9064,43,69109.0,Graduation,Married,1555,20,0,10,4,1,Premium Customers,0,Premium Customers,1,Premium Customers
+2186,48,82326.0,2n Cycle,Together,2257,22,0,30,2,1,Premium Customers,0,Premium Customers,1,Premium Customers
+1399,67,72905.0,Graduation,Married,1515,20,0,52,1,1,Premium Customers,0,Premium Customers,1,Premium Customers
+3010,36,88420.0,Master,Together,2069,20,0,87,1,1,Premium Customers,0,Premium Customers,1,Premium Customers
+6892,57,61671.0,Graduation,Divorced,732,28,1,23,8,2,Standard Customers,0,Premium Customers,1,Premium Customers
+5558,71,90933.0,PhD,Single,1685,15,0,90,1,1,Premium Customers,0,Premium Customers,1,Premium Customers
+5831,58,77870.0,Graduation,Married,1815,18,1,93,8,1,Premium Customers,0,Premium Customers,1,Premium Customers
+10176,57,57107.0,Graduation,Single,416,23,1,44,8,2,Standard Customers,0,Premium Customers,1,Premium Customers
+3138,69,91249.0,Graduation,Single,1676,22,0,84,4,1,Premium Customers,0,Premium Customers,1,Premium Customers
+4994,82,77598.0,Master,Single,1735,26,0,53,3,1,Premium Customers,0,Premium Customers,1,Premium Customers
+10872,56,55212.0,PhD,Married,1182,20,1,65,8,2,Standard Customers,0,Premium Customers,1,Premium Customers
+1139,41,73356.0,PhD,Married,1512,22,0,56,2,1,Premium Customers,0,Premium Customers,1,Premium Customers
+2109,35,96843.0,Graduation,Single,1544,28,0,60,2,1,Premium Customers,0,Premium Customers,1,Premium Customers
+3009,63,71670.0,PhD,Widow,1766,15,0,8,6,1,Premium Customers,0,Premium Customers,1,Premium Customers
+8537,76,72643.0,Graduation,Widow,1429,21,0,60,2,1,Premium Customers,0,Premium Customers,1,Premium Customers
+4331,47,85738.0,Master,Together,1371,21,0,41,1,1,Premium Customers,0,Premium Customers,1,Premium Customers
+3334,74,94642.0,Graduation,Married,2211,21,0,35,1,1,Premium Customers,0,Premium Customers,1,Premium Customers
+10949,62,72968.0,PhD,Divorced,1958,19,0,8,3,1,Premium Customers,0,Premium Customers,1,Premium Customers
+6248,78,91712.0,Master,Single,2217,27,0,47,3,1,Premium Customers,0,Premium Customers,1,Premium Customers
+10164,67,94472.0,Graduation,Single,1691,16,1,75,5,1,Premium Customers,0,Premium Customers,1,Premium Customers
+6815,45,96547.0,2n Cycle,Married,809,21,0,4,2,1,Premium Customers,0,Premium Customers,1,Premium Customers
+4122,50,79205.0,Graduation,Married,895,16,0,73,4,1,Premium Customers,0,Premium Customers,1,Premium Customers
+500,48,96876.0,Graduation,Together,1941,24,0,79,2,1,Premium Customers,0,Premium Customers,1,Premium Customers
+10701,52,65308.0,Graduation,Married,1211,28,0,60,4,1,Premium Customers,0,Premium Customers,1,Premium Customers
+4426,50,55801.0,Graduation,Single,527,21,2,35,7,2,Standard Customers,0,Premium Customers,1,Premium Customers
+5250,82,51381.5,Master,Widow,1564,22,0,75,1,1,Premium Customers,0,Premium Customers,1,Premium Customers
+7734,32,79244.0,Graduation,Absurd,1216,22,0,58,1,1,Premium Customers,0,Premium Customers,1,Premium Customers
+1103,49,81929.0,Master,Married,2053,20,1,60,6,1,Premium Customers,1,Standard Customers,1,Premium Customers
+3422,50,76068.0,Graduation,Married,1376,10,1,67,6,2,Standard Customers,0,Premium Customers,1,Premium Customers
+2909,51,78128.0,PhD,Married,1264,20,1,89,3,1,Premium Customers,0,Premium Customers,1,Premium Customers
+3104,64,82332.0,Graduation,Single,2006,21,0,89,2,1,Premium Customers,0,Premium Customers,1,Premium Customers
+2088,53,84906.0,Graduation,Together,1631,24,0,98,2,1,Premium Customers,0,Premium Customers,1,Premium Customers
+6292,39,82333.0,PhD,Married,1822,18,0,60,2,1,Premium Customers,0,Premium Customers,1,Premium Customers
+3919,49,72309.0,Master,Single,1931,20,0,64,3,1,Premium Customers,0,Premium Customers,1,Premium Customers
+5136,52,65333.0,Graduation,Single,798,28,1,58,6,2,Standard Customers,0,Premium Customers,1,Premium Customers
+9790,68,78499.0,Graduation,Single,1334,19,0,12,4,1,Premium Customers,0,Premium Customers,1,Premium Customers
+7233,53,69209.0,Graduation,Married,1782,16,0,4,4,1,Premium Customers,0,Premium Customers,1,Premium Customers
+7313,76,74859.0,2n Cycle,Widow,1565,23,0,63,3,1,Premium Customers,0,Premium Customers,1,Premium Customers
+3520,35,91172.0,Master,Single,1092,14,0,94,3,1,Premium Customers,0,Premium Customers,1,Premium Customers
+10394,41,90000.0,Graduation,Married,1479,18,0,91,1,1,Premium Customers,0,Premium Customers,1,Premium Customers
+3968,55,65706.0,2n Cycle,Divorced,1199,27,0,77,7,1,Premium Customers,0,Premium Customers,1,Premium Customers
+2829,70,65210.0,Graduation,Married,731,22,1,25,6,2,Standard Customers,0,Premium Customers,1,Premium Customers
+1772,50,79174.0,PhD,Married,2043,19,0,2,2,1,Premium Customers,0,Premium Customers,1,Premium Customers
+5721,69,84117.0,PhD,Married,1566,24,0,60,2,1,Premium Customers,0,Premium Customers,1,Premium Customers
+8722,68,82347.0,2n Cycle,Married,1853,25,0,38,3,1,Premium Customers,0,Premium Customers,1,Premium Customers
+7366,43,75777.0,Master,Single,1438,21,0,12,1,1,Premium Customers,0,Premium Customers,1,Premium Customers
+8720,47,51381.5,2n Cycle,Together,1679,1,0,53,0,1,Premium Customers,0,Premium Customers,1,Premium Customers
+4001,79,64014.0,PhD,Together,444,22,3,56,7,2,Standard Customers,0,Premium Customers,1,Premium Customers
