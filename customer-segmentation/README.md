@@ -22,7 +22,7 @@ This project provides an end-to-end solution for customer segmentation, enabling
 
 ## 🚀 Live Demo
 
-**Version 1.0:** [Try it now](your-deployment-link-here) *(specialized for marketing data)*
+**Version 1.0:** [Try it now](https://customer-segmentation-osasere-edobor.streamlit.app) *(specialized for marketing data)*
 
 **Version 2.0:** Coming soon - supports ANY customer dataset format! [Join the waitlist](#)
 
@@ -221,7 +221,7 @@ customer-segmentation/
 ### Cluster Profiles
 ![Profiles](screenshots/cluster_profiles.png)
 
-### Cluster Profiles
+### Business Insights
 ![Cluster Business Insights](screenshots/cluster_business_insight.png)
 
 ## 🎓 Example Customer Segments
