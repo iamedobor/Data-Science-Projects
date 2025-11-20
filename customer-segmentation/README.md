@@ -136,12 +136,23 @@ customer-segmentation/
 │
 ├── dashboard/
 │   ├── app.py                         # Main Streamlit dashboard
-│   └── utils.py                       # Helper functions
+│   ├── utils.py                       # Helper functions
+│   └── logo.png
 │
 ├── images/
 │   ├── elbow_method.png              # Generated visualizations
 │   ├── silhouette_analysis.png
 │   └── ...
+│
+├── screenshots/
+│   ├── home.png                       # Dashboard home screenshot
+│   ├── eda_demographics.png           # EDA demographics screenshot
+│   ├── clustering_results.png         # Clustering results screenshot
+│   ├── cluster_profiles.png           # Cluster profiles screenshot
+│   └── cluster_business_insight.png   # Business insights screenshot
+│
+├── src/
+│   └── __init__.py                    # Makes src a Python package
 │
 ├── results/
 │   ├── clustered_customers_all_models.csv
@@ -149,8 +160,10 @@ customer-segmentation/
 │   ├── model_metrics.json
 │   └── ...              
 │
+├── __init__.py                        # Makes root a Python package
 ├── requirements.txt                   # Python dependencies
 ├── README.md                          # This file
+├── CONTRIBUTING.md                    # Contribution guidelines
 ├── LICENSE                            # MIT License
 └── .gitignore                        # Git ignore rules
 ```
@@ -297,7 +310,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you find this project useful, please consider giving it a star!
 
-[![Star History Chart](https://api.star-history.com/svg?repos=iamedobor/customer-segmentation&type=Date)](https://star-history.com/#iamedobor/customer-segmentation&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=iamedobor/Data-Science-Projects&type=Date)](https://star-history.com/#iamedobor/Data-Science-Projects&Date)
+
 
 ---
 

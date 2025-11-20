@@ -177,8 +177,7 @@ Interested in contributing to Version 2.0? Here are priority areas:
 
 ## 💬 Questions?
 
-- Open a [Discussion](https://github.com/iamedobor/customer-segmentation/discussions)
-- Create an [Issue](https://github.com/iamedobor/customer-segmentation/issues)
+- Open a [Discussion](https://github.com/iamedobor/Data-Science-Projects/discussions/1)
 - Contact: projects@edoborosasere.com
 
 ## 🙏 Recognition
