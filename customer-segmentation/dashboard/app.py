@@ -1,5 +1,6 @@
 # dashboard/app.py
 import streamlit as st
+import os
 import pandas as pd
 import numpy as np
 import plotly.express as px
@@ -49,7 +50,9 @@ if 'clusters_computed' not in st.session_state:
 
 # Sidebar
 with st.sidebar:
-    st.image("logo.png", use_column_width=True)
+    logo_path = os.path.join(os.path.dirname(__file__), "logo.png")
+if os.path.exists(logo_path):
+    st.image(logo_path, use_column_width=True)
     st.markdown("---")
 
     
