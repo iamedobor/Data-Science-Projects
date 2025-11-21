@@ -149,6 +149,7 @@ customer-segmentation/
 ├── dashboard/
 │   ├── app.py                         # Main Streamlit dashboard
 │   ├── utils.py                       # Helper functions
+│   ├── requirements.txt               # Dependencies for Streamlit Cloud deployment
 │   └── logo.png
 │
 ├── images/
